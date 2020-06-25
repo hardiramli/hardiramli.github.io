@@ -1,0 +1,9 @@
+{
+  "message": "Selamat i18n !!",
+  "appbar":{
+    "title":"Selamat"
+  },
+  "navigation":{
+    "home":"Kost"
+  }
+}

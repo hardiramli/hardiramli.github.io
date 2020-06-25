@@ -1,0 +1,9 @@
+{
+  "message": "hello i18n !!",
+  "appbar":{
+    "title":"Welcome"
+  },
+  "navigation":{
+    "home":"Home"
+  }
+}
